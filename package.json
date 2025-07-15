@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "pkg-up": "^4.0.0"
+    }
+}
