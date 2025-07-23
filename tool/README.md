@@ -312,7 +312,3 @@ npm run format
 4. Add tests
 5. Run `npm test` and `npm run lint`
 6. Submit a pull request
-
-## License
-
-ISC
